@@ -108,7 +108,7 @@ it will take some time to regenerate all the map overlay thumbnails. BE PATIENT!
 ![Infantry Only #1](https://raw.githubusercontent.com/JenkinsTR/KanesWrath-Ultimate-Map-Variations/main/Art/Screenshots/Screenshot_InfantryOnly_1.png)
 
 *Infantry Only #2*
-![Infantry Only #2](https://raw.githubusercontent.com/JenkinsTR/KanesWrath-Ultimate-Map-Variations/main/Art/Screenshots/Screenshot_InfantryOnly_2.png)
+![Infantry Only #2](https://raw.githubusercontent.com/JenkinsTR/KanesWrath-Ultimate-Map-Variations/main/Art/Screenshots/Screenshot_InfantryOnly_2_AI.png)
 
 *Tanks Only*
 ![Tanks Only](https://raw.githubusercontent.com/JenkinsTR/KanesWrath-Ultimate-Map-Variations/main/Art/Screenshots/Screenshot_TanksOnly.png)
