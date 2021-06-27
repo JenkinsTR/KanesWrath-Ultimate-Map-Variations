@@ -2,8 +2,8 @@
 Total Maps in this pack: 455
 Total Variations per map: 7
 
-PACK SIZE: 44 MB
-INSTALL SIZE: 634 MB
+PACK SIZE: 49 MB
+INSTALL SIZE: 692 MB
 ---------------------------
 ATTN COMMANDER;
 

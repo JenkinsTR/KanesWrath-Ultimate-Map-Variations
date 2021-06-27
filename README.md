@@ -5,9 +5,9 @@
  
  Total Variations per map: 7
  
- PACK SIZE: 44 MB
+ PACK SIZE: 49 MB
  
- INSTALL SIZE: 634 MB
+ INSTALL SIZE: 692 MB
 
 ---------------------------
 ## ATTN COMMANDER;
