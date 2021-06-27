@@ -16,20 +16,20 @@
 ---------------------------
 ## THE VARIATIONS:
 
-**Lone Wolf (LONEWOLF):**
+**Lone Wolf (LONEWOLF)**
 
 This is a "Commandos Only" mode. Scrin have severe balance issues when limiting them to just the Mastermind. For Scrin & Scrin-based factions only, a CORRUPTER is used instead of the Mastermind Commando.
 The Corrupter's stats are similar to the NOD and GDI Commando (except cost) but playtests have been good with this substitution so far.
 This mode has all other support powers, upgrades & superweapons disabled, as well as All Tanks and Air Units disabled.
 
 ---------------------------
-**No Superweapons (NOSW):**
+**No Superweapons (NOSW)**
 
 This is pretty self explanatory. All factions super weapons have been DISABLED.
 The idea of No Superweapons is to balance (and extend) the later end-game gameplay.
 
 ---------------------------
-** No Superweapons / No Upgrades (NOSW_NOUP):**
+** No Superweapons & No Upgrades (NOSW_NOUP)**
 
 This is pretty self explanatory. All factions super weapons have been DISABLED.
 The idea of No Superweapons is to balance (and extend) the later end-game gameplay.
