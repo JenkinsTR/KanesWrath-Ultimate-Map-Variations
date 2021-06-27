@@ -1,12 +1,14 @@
 # Kane's Wrath Ultimate Map Variations Pack
  A collection of over 450 official Skirmish/MP map variations for Command & Conquer 3: Kane's Wrath by Jenkins87/JMDigital
  
----------------------------
-Total Maps in this pack: 455
-Total Variations per map: 7
+ Total Maps in this pack: 455
+ 
+ Total Variations per map: 7
+ 
+ PACK SIZE: 44 MB
+ 
+ INSTALL SIZE: 634 MB
 
-PACK SIZE: 44 MB
-INSTALL SIZE: 634 MB
 ---------------------------
 ## ATTN COMMANDER;
 
@@ -16,41 +18,48 @@ THESE VARIATIONS ARE MANY YEARS IN THE MAKING THROUGH SCRIPTING WITH WORLDBUILDE
 
 ---------------------------
 ## THE VARIATIONS:
----------------------------
+
 **Lone Wolf (LONEWOLF):**
+
 This is a "Commandos Only" mode. Scrin have severe balance issues when limiting them to just the Mastermind. For Scrin & Scrin-based factions only, a CORRUPTER is used instead of the Mastermind Commando.
 The Corrupter's stats are similar to the NOD and GDI Commando (except cost) but playtests have been good with this substitution so far.
 This mode has all other support powers, upgrades & superweapons disabled, as well as All Tanks and Air Units disabled.
 
 ---------------------------
 **No Superweapons (NOSW):**
+
 This is pretty self explanatory. All factions super weapons have been DISABLED.
 The idea of No Superweapons is to balance (and extend) the later end-game gameplay.
 
 ---------------------------
 ** No Superweapons / No Upgrades (NOSW_NOUP):**
+
 This is pretty self explanatory. All factions super weapons have been DISABLED.
 The idea of No Superweapons is to balance (and extend) the later end-game gameplay.
 
 ---------------------------
 **No Aircraft (NOAIR)**
+
 Also self explanatory, and I also DISABLED the ability to build Anti Air structures and Units dedicated to AA.
 This mode is perfect for large base building, as you are restricted to purely ground units.
 
 ---------------------------
 **No Superweapons, No Upgrades AND No Aircraft (NOSW_NOAIR)**
+
 A combination of the above 2. My personal favourite map variation.
 ALL AIR UNITS/STRUCTURES, SUPPORT POWERS, UPGRADES and SUPERWEAPONS are all DISABLED.
 This is also the best mode for large base building and tower defense style.
 
 ---------------------------
 **Infantry Only (INFONLY)**
+
 Again this one explains itself. Pure infantry.
 War Factories can be built to build MCV and Harvesters.
 AIRCRAFT, TANKS UNITS/STRUCTURES and ANTI-AA and ANTI-TANK defenses are also DISABLED.
 
 ---------------------------
 **Tanks Only (TNKSONLY)**
+
 Another self explatory variation.
 
 ---------------------------
