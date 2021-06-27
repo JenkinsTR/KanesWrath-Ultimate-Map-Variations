@@ -110,9 +110,6 @@ it will take some time to regenerate all the map overlay thumbnails. BE PATIENT!
 *Tanks Only*
 ![Tanks Only](https://raw.githubusercontent.com/JenkinsTR/KanesWrath-Ultimate-Map-Variations/main/Art/Screenshots/Screenshot_TanksOnly.png)
 
-
-Best wishes in your future battles commander,
-
-- Jenkins
+Best wishes in your future battles commander
 
 ![Kane's Wrath Ultimate Map Variations Pack](https://raw.githubusercontent.com/JenkinsTR/KanesWrath-Ultimate-Map-Variations/main/Art/KWUMV/KWUMV_bg1.png)
