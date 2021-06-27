@@ -79,7 +79,7 @@ however, you can still LAN this game through services like CNC-Net or similar.
 - I have included the scripts I created to make this pack possible.
 They should be located with the download in the `_SCRIPTS` folder.
 
-- I decided to make this pack open source and updates can be obtained over on Github: 
+- I decided to make this pack open source and updates can be obtained over on Github: https://github.com/JenkinsTR/KanesWrath-Ultimate-Map-Variations
 
 ---------------------------
 Install instructions:

@@ -89,8 +89,6 @@ however, you can still LAN this game through services like CNC-Net or similar.
 - I have included the scripts I created to make this pack possible.
 They should be located with the download in the `Scripts` folder.
 
-- I decided to make this pack open source and updates can be obtained over on Github: 
-
 ---------------------------
 ## Install instructions:
 
