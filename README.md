@@ -31,8 +31,7 @@ The idea of No Superweapons is to balance (and extend) the later end-game gamepl
 ---------------------------
 **No Superweapons & No Upgrades (NOSW_NOUP)**
 
-This is pretty self explanatory. All factions super weapons have been DISABLED.
-The idea of No Superweapons is to balance (and extend) the later end-game gameplay.
+This is pretty self explanatory. All factions SUPPORT POWERS, UPGRADES and SUPERWEAPONS are all DISABLED.
 
 ---------------------------
 **No Aircraft (NOAIR)**
