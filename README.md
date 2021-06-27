@@ -10,11 +10,8 @@
  INSTALL SIZE: 692 MB
 
 ---------------------------
-## ATTN COMMANDER;
 
-THIS PACK EXISTS TO EXTEND THE ENJOYMENT & CHALLENGES OF COMMAND AND CONQUER 3: KANE'S WRATH.
-
-THESE VARIATIONS ARE MANY YEARS IN THE MAKING THROUGH SCRIPTING WITH WORLDBUILDER.
+![ATTENTION COMMANDER](https://raw.githubusercontent.com/JenkinsTR/KanesWrath-Ultimate-Map-Variations/main/Art/KWUMV/KWUMV_attnc1.png)
 
 ---------------------------
 ## THE VARIATIONS:
