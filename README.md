@@ -57,7 +57,7 @@ AIRCRAFT, TANKS UNITS/STRUCTURES and ANTI-AA and ANTI-TANK defenses are also DIS
 ---------------------------
 **Tanks Only (TNKSONLY)**
 
-Another self explatory variation.
+Another self explanatory variation.
 
 ---------------------------
 ## Tidbits:
