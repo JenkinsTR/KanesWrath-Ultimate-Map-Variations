@@ -114,3 +114,5 @@ it will take some time to regenerate all the map overlay thumbnails. BE PATIENT!
 Best wishes in your future battles commander,
 
 - Jenkins
+
+![Kane's Wrath Ultimate Map Variations Pack](https://raw.githubusercontent.com/JenkinsTR/KanesWrath-Ultimate-Map-Variations/main/Art/KWUMV/KWUMV_bg1.png)
