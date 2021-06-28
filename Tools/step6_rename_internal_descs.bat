@@ -149,7 +149,7 @@ SET VAR6=NOSW_NOUP
 SET VAR7=TNKSONLY
 
 SET "MAPDIR=C:\Users\Jenkins\AppData\Roaming\Command & Conquer 3 Kane's Wrath\Maps"
-SET "SSR=K:\GitHub\JM-Tools\Snippets & Old Stuff\Renamers\ssr.exe"
+SET "SSR=bin\ssr.exe"
 REM "%MAPDIR%\%MAPN01% (%VAR1%)\map.xml" "%MAPDIR%\%MAPN01% (%VAR1%)\map_mod.xml"
 
 :: Usage: ssr <occurrence> <search_text> <replace_text> <input_file> (<output_file>]
